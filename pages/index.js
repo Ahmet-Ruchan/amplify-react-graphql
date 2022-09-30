@@ -126,9 +126,10 @@ export default function Home() {
               <p className="py-2">
               If you like my work and want to contact me. Please email me.
               </p>
-              You can contact me via the Gmail address below. <br/><br/>
+              You can contact me via the <span className="text-lg font-medium pt-8 pb-2 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300">Mail</span> icon below. <br/><br/>
               
               <h1><a href="mailto:aruchanavci01@gmail.com" target='_blank' className="text-9xl  flex justify-center gap-16 py-3 text-yellow-400" rel="noreferrer"><AiFillMail/></a></h1>
+              <h3 className="text-lg font-medium pt-8 pb-2 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300">Click on it!</h3>
 
 
             </div>
