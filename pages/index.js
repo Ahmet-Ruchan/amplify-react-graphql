@@ -134,7 +134,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-yellow-500 to-cyan-300">A little more</h3>
             <p className="text-md py-2 leading-8 text-gray-200">
             I have been using JavaScript and ReactJS lately and continue to improve myself. The technologies I have used so far are:
-            <br/>  <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-cyan-400 to-yellow-300"> JavaScript, Java, C, Python, ReactJS, NodeJS, VueJs, HTLM and CSS </span>
+            <br/>  <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-cyan-400 to-yellow-300"> JavaScript, Java, C, Python, ReactJS, NodeJS, VueJs, HTML and CSS </span>
               
             </p>
             <p className="text-md py-2 leading-8 text-gray-200">
