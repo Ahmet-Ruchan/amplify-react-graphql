@@ -122,7 +122,7 @@ export default function Home() {
               <p className="py-2">
               If you like my work and want to contact me. Please email me.
               </p>
-              You can contact me via the Gmail address below. <br/><br/><h1 className="py-4 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300">aruchanavci01@gmail.com</h1>
+              You can contact me via the Gmail address below. <br/><br/><h1 className="py-4 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300">"aruchanavci01@gmail.com"</h1>
             </div>
           </div>
         </section>
