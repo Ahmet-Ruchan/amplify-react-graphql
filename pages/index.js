@@ -5,6 +5,7 @@ import {
   AiFillTwitterCircle,
   AiFillLinkedin,
   AiFillGithub,
+  AiFillMail,
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
@@ -125,7 +126,11 @@ export default function Home() {
               <p className="py-2">
               If you like my work and want to contact me. Please email me.
               </p>
-              You can contact me via the Gmail address below. <br/><br/><h1 className="py-4 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300">"aruchanavci01@gmail.com"</h1>
+              You can contact me via the Gmail address below. <br/><br/>
+              
+              <h1><a href="mailto:aruchanavci01@gmail.com" target='_blank' className="text-9xl  flex justify-center gap-16 py-3 text-yellow-400" rel="noreferrer"><AiFillMail/></a></h1>
+
+
             </div>
           </div>
         </section>
@@ -141,27 +146,7 @@ export default function Home() {
             Don't forget to email me for feedback. Thanks.
             </p>
           </div>
-          <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
-            <div className="basis-1/3 flex-1 ">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-                src={web1}
-              />
-            </div>
-            <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-                src={web2}
-              />
-            </div>
-            
-          </div>
+          
           <br/><br/><br/><h5 className="text-m py-1 text-white text-center p-10">Copyright <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-400  to-cyan-400">2022 </span>. All rights reserved. ©</h5>
         </section>
       </main>
