@@ -10,7 +10,7 @@ import {
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 //import deved from "../public/dev-ed-wave.png";
-import ben from '../public/ben-mavi.jpeg';
+import ben from '../public/ben_kedi.jpeg';
 //import code from "../public/code.png";
 import design from "../public/design.png";
 import consulting from "../public/consulting.png";
@@ -61,7 +61,7 @@ export default function Home() {
               Computer Engineer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-200 max-w-xl mx-auto md:text-xl">
-            A computer engineer who develops software. <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500"> JavaScript, ReactJS, React Native, VueJs, NodeJS, Python, AI, ML </span> and many more. Join me down below and let's get cracking!
+            A computer engineer who develops software. <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">Python, Pandas, NumPy, OpenCV, TensorFlow, Machine Learning, Artificial Intelligence, Deep Learning, Data Science, JavaScript, ReactJS, NodeJS, MongoDB</span> and many more. Join me down below and let's get cracking!
             
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-200">
@@ -139,8 +139,8 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-yellow-500 to-cyan-300">A little more</h3>
             <p className="text-md py-2 leading-8 text-gray-200">
-            I have been using JavaScript and ReactJS lately and continue to improve myself. The technologies I have used so far are:
-            <br/>  <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-cyan-400 to-yellow-300"> JavaScript, Java, C, Python, ReactJS, NodeJS, VueJs, HTML and CSS </span>
+            I have been using Python and i use artificial intelligence, machine learning and data science libraries. lately and continue to improve myself. The technologies I have used so far are:
+            <br/>  <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-cyan-400 to-yellow-300"> JavaScript, Java, C, Python, ReactJS, NodeJS, VueJs, MongoDB, NodeJS, HTML and CSS </span>
               
             </p>
             <p className="text-md py-2 leading-8 text-gray-200">
