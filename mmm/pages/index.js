@@ -45,10 +45,10 @@ export default function Home() {
               </li>
               <li>
                 <a
-                  className="font-burtons text-xl bg-gradient-to-r  from-sky-500  to-green-500 text-white px-4 pt-3 pb-2 border-none rounded-md ml-8"
+                  className="bg-gradient-to-r  from-sky-500  to-green-500 text-white px-4 py-2 border-none rounded-md ml-8"
                   href="Resume.pdf" download
                 >
-                  Look At My CV
+                  Resume
                 </a>
               </li>
             </ul>
@@ -90,6 +90,21 @@ export default function Home() {
             
           </div>
           <div className="lg:flex gap-10">
+            <div className="text-center shadow-lg p-10 rounded-xl my-10  bg-white flex-1">
+              <Image src={design} width={150} height={150} />
+              <h3 className="text-lg font-medium pt-8 pb-2  text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+                Beautiful Designs
+              </h3>
+              <p className="py-2">
+                Creating elegant designs suited for your needs following core
+                design theory.
+              </p>
+              <h4 className="py-4 text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">Design Tools I Use</h4>
+              <p className="text-gray-800 py-1">ReactJS</p>
+              <p className="text-gray-800 py-1">VueJs</p>
+              <p className="text-gray-800 py-1">Figma</p>
+              <p className="text-gray-800 py-1">My imagination</p>
+            </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-white flex-1">
               <Image src={web6} width={150} height={150} />
               <h3 className="text-lg font-medium pt-8 pb-2 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-400  to-cyan-400">
