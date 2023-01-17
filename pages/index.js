@@ -22,9 +22,9 @@ import web2 from "../public/web2.png";
 //import web5 from "../public/web5.png";
 import web6 from "../public/web6.jpg";
 
-import { Amplify } from 'aws-amplify';
-import config from '../src/aws-exports';
-Amplify.configure(config);
+// import { Amplify } from 'aws-amplify';
+// import config from '../src/aws-exports';
+// Amplify.configure(config);
 
 export default function Home() {
 
