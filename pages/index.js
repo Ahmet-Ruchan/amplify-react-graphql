@@ -22,9 +22,9 @@ import web2 from "../public/web2.png";
 //import web5 from "../public/web5.png";
 import web6 from "../public/web6.jpg";
 
-//import { Amplify } from 'aws-amplify';
-//import config from './aws-exports';
-//Amplify.configure(config);
+import { Amplify } from 'aws-amplify';
+import config from '../src/aws-exports';
+Amplify.configure(config);
 
 export default function Home() {
 
@@ -46,7 +46,7 @@ export default function Home() {
               <li>
                 <a
                   className="font-burtons text-xl bg-gradient-to-r  from-sky-500  to-green-500 text-white px-4 pt-3 pb-2 border-none rounded-md ml-8"
-                  href="Resume.pdf" download
+                  href="CV.pdf" download
                 >
                   Look At My CV
                 </a>
