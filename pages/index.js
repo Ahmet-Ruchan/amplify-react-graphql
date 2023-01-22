@@ -33,7 +33,7 @@ export default function Home() {
       <Head>
         <title>Ahmet Ruçhan Avcı</title>
         <meta name="description" content="Ahmet Ruçhan Avcı" />
-        <link rel="icon" href="/web5.png" />
+        <link rel="icon" href="/web9.png" />
       </Head>
       <main className=" px-3.5 bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
