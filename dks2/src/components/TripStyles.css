@@ -1,0 +1,274 @@
+.trip {
+  margin: 4rem 6rem;
+  color: #2a2a2a;
+}
+
+.trip h1 {
+  font-size: 3rem;
+}
+
+.tripcard {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.product {
+  color: red;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 2px;
+  max-width: 50%;
+  
+}
+
+.baslik{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: 5px;
+  margin-top: -5px;
+}
+
+.product-A{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-A{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-A3{
+  color: grey;
+  font-size: 15px;
+  text-align:left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+
+.baslik-B{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-B{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-D{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-D{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-E{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-E{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-F{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-F{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-G{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-G{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-H{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-H{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-I{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-I{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-P{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-P{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-S{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-S{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-T{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-T{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+.baslik-W{
+  color: grey;
+  text-align: left;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -3px;
+}
+.product-W{
+  color: grey;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 2px;
+  max-width: 45%;
+}
+
+.altBaslik{
+  color: green;
+}
+
+
+.t-card {
+  width: 32%;
+  text-align: start;
+  box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.11);
+  border-radius: 7px;
+  cursor: pointer;
+  padding: 1rem 0.8rem;
+}
+.t-image {
+  height: 160px;
+  width: 160px;
+  overflow: hidden;
+  border-radius: 7px;
+}
+
+.t-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 7px;
+  transition: 0.3s ease-in-out;
+}
+
+.t-card:hover img {
+  transform: scale(1.3);
+  overflow: hidden;
+}
+
+.t-card h4 {
+  font-size: 1.3rem;
+  padding: 0.9rem 0 0.2rem 0;
+}
+
+@media screen and (max-width: 850px) {
+  .trip {
+    margin: 4rem 2rem;
+  }
+  .tripcard {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .t-card {
+    margin-bottom: 1.5rem;
+    width: 100%;
+  }
+}
